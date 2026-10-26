@@ -1,0 +1,12 @@
+{
+  "game_id": "SESEHB",
+  "title_id": "0001000053455345",
+  "region": "NTSC-U (USA)",
+  "built_utc": "2026-10-26T20:57:44.377791+00:00",
+  "dol_source": "wii/eatinsteatin.dol",
+  "iso_bytes": 20152320,
+  "iso_sha256": "0107c5e040f30574d0bfb0dab055ec5996e010c1b16bda73f219788fa9a6c6a3",
+  "dol_sha256": "3842994cbce24b9c9454a467a6f1cbee6584022511f1e65b3885f98928535b68",
+  "apploader_entry": "0x81200000",
+  "relocated_loader_entry": "0x9300006c"
+}
