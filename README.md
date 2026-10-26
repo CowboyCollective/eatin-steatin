@@ -1,6 +1,6 @@
 ![Eatin' Steatin' banner](banner/preview_banner_x4.png)
 
-# Eatin' Steatin'
+# *Eatin' Steatin'*
 
 copy of the classic wii rom
 
@@ -18,19 +18,19 @@ Disc region: USA (NTSC-U). Controls: Wii Remote + Nunchuk.
 
 ![Breakfast gameplay with the clown transformation](screenshots/breakfast_clown_transform.gif)
 
-*Breakfast: a clown transformation to start the day.*
+*Breakfast*
 
 ![Lunch gameplay featuring the window and repairman](screenshots/lunch_window_and_repairman.gif)
 
-*Lunch: a visit from the repairman at the window.*
+*Lunch*
 
 ![Dinner gameplay featuring grace and sin](screenshots/dinner_grace_sin.gif)
 
-*Dinner: saying grace, with a side of sin.*
+*Dinner*
 
 ![Midnight snack gameplay](screenshots/midnight_snack.gif)
 
-*Midnight snack: one last bite before bed.*
+*Midnight snack*
 
 ## Note
 
