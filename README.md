@@ -6,8 +6,6 @@ copy of the classic wii rom
 
 ![Scanned Wii cover for Eatin' Steatin'](cover%20art.jpg)
 
-*The Wii cover scan.*
-
 ## Playing in Dolphin
 
 Copy `Eatin' Steatin'.iso`, `Eatin' Steatin'.png`, and `Eatin' Steatin'.xml` together into your Dolphin games folder. The ISO boots by itself; the PNG and XML provide artwork and game metadata.
